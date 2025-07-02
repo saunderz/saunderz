@@ -19,7 +19,6 @@
 
 ## 💡 Projetos em Destaque
 
-- 
 - 🎙️ [**TecaAI**] – Assistente de voz educacional com integração a ESP32 e IA para respostas contextualizadas.
 - 📚 [**Toth**](https://github.com/globalteceducacional/Projeto-Toth) – Geração de livros ilustrados com numeração, estilos e exportação em PDF/EPUB para distribuição educacional.
 - 📝 [**Prometeus**](https://github.com/globalteceducacional/Projeto-Prometeus) – Correção textual inteligente com OCR (Google Vision) e coesão textual (Cohere) via Streamlit.
@@ -67,4 +66,5 @@
 ## 🏆 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saunderz&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saunderz&layout=compact&theme=radical)
