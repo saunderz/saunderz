@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Saunderz
+# 👋 Olá, eu sou Luã Saunders
 
 🎓 **Engenheiro de Computação com ênfase em Inteligência Artificial**  
 🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Educação Digital  
