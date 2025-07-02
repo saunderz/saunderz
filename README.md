@@ -38,7 +38,8 @@
 
 ## 📚 Publicações pertinentes à Engenharia da Computação
 
-- **Automatic Vocal Tract Detection to Aid Speech Pattern Recognition** (2025)  
+- **Automatic Vocal Tract Detection to Aid Speech Pattern Recognition** (2025)
+  Proceedings of the 10th Brazilian Technology Symposium (BTSym’24) - Springer Nature 
   [DOI: 10.1007/978-3-031-92651-8_46](https://doi.org/10.1007/978-3-031-92651-8_46)
 
 - **Vocal Tract Detection using Yolo v8** (2024)  
