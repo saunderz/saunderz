@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Luã Saunders
 
 🎓 **Engenheiro de Computação com ênfase em Inteligência Artificial**  
-🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Redes Neurais Convolucionais
+🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Redes Neurais Convolucionais  
 🧠 Desenvolvedor de soluções de IA aplicadas à educação, controle, automação e computação de alto desempenho
 
 ---
