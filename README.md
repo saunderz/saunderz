@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Luã Saunders
 
 🎓 **Engenheiro de Computação com ênfase em Inteligência Artificial**  
-🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Educação Digital  
+🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Redes Neurais Convolucionais
 🧠 Desenvolvedor de soluções de IA aplicadas à educação, controle, automação e computação de alto desempenho
 
 ---
@@ -19,9 +19,10 @@
 
 ## 💡 Projetos em Destaque
 
-- 🎙️ [**TecaAI**] – Assistente de voz educacional com integração a ESP32 e IA para respostas contextualizadas.
+- 🎙️ [**TecaAI**] – Assistente de voz educacional com integração a ESP32 e IA para respostas contextualizadas. 
 - 📚 [**Toth**](https://github.com/globalteceducacional/Projeto-Toth) – Geração de livros ilustrados com numeração, estilos e exportação em PDF/EPUB para distribuição educacional.
 - 📝 [**Prometeus**](https://github.com/globalteceducacional/Projeto-Prometeus) – Correção textual inteligente com OCR (Google Vision) e coesão textual (Cohere) via Streamlit.
+- 👁️ **Detecção** e **Segmentação** em tempo real do trato vocálico para auxílio no diagnóstico de problemas de fala.
 - 🚀 **CUDA Flow Solver** – Simulações de escoamento isentrópico otimizadas para GPU com CUDA e Numba para alto desempenho.
 - 🤖 **Reconhecimento Facial Distribuído** – Sistema de controle de acesso distribuído via reconhecimento facial, utilizando APIs rápidas e cache otimizado.
 
