@@ -2,7 +2,7 @@
 
 🎓 **Engenheiro de Computação com ênfase em Inteligência Artificial**  
 🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Redes Neurais Convolucionais  
-🧠 Desenvolvedor de soluções de IA aplicadas à educação, controle, automação e computação de alto desempenho
+🧠 Desenvolvedor de soluções de IA aplicadas ao controle, automação, educação e computação de alto desempenho
 
 ---
 
@@ -11,7 +11,7 @@
 - **Linguagens:** Python, C, C++, CUDA, R, LaTeX  
 - **Frameworks de IA:** PyTorch, TensorFlow, YOLO, LangChain  
 - **Desenvolvimento Web:** FastAPI, Streamlit, Flask  
-- **Processamento de Voz e Texto:** Coqui TTS, Vosk, Cohere, Google Cloud Vision  
+- **Processamento de Linguagem Natural e Voz:** Coqui TTS, Vosk, Cohere, Google Cloud Vision  
 - **Visão Computacional:** OpenCV, YOLO, OCR pipelines  
 - **Ferramentas:** Git, VSCode, Linux, Windows, Docker, Jupyter
 
@@ -28,12 +28,31 @@
 
 ---
 
+## 🚀 Experiência Profissional
+
+- **Globaltec Educacional** — Desenvolvedor de IA  
+  - Desenvolvimento de soluções de IA aplicadas a **EdTech, gestão e finanças**;  
+  - Criação de **assistentes virtuais inteligentes** com NLP, TTS/STT e visão computacional;  
+  - Implementação de **MLOps e sistemas distribuídos/edge** para alta performance;  
+  - Construção de **plataformas personalizadas, automações e analítica preditiva**;  
+  - Integração de **IA generativa com personagens em realidade aumentada e virtual**, com interação multimodal (voz/fala natural);  
+  - Projetos voltados para **processos seguros, acessíveis, escaláveis e em tempo real**.  
+
+- **Miniverso** — Desenvolvedor de Soluções de IA  
+  - Desenvolvi sistemas de **transcrição automática de áudio** com carimbos de tempo, segmentação de silêncio e exportação estruturada em TXT;  
+  - Criei relatórios **individuais e coletivos em HTML/PDF**, integrando análise com **LLMs** e visualizações;  
+  - Otimizei pipelines para **uso local em GPU** e envio de áudios pela rede;  
+  - Integrei **IA generativas personalizadas com personagens de Realidade Virtual/Aumentada**, utilizando **STT e TTS** para experiências interativas e imersivas;  
+  - Soluções focadas em **eficiência, acessibilidade e automação** em aplicações de voz, texto e ambientes virtuais.  
+
+
 ## 🌱 Atualmente estudando
 
 - Redes neurais profundas aplicadas à visão computacional embarcada;
 - Processamento de linguagem natural em sistemas distribuídos embarcados;
 - Otimizações CUDA para métodos numéricos e simulações fluidodinâmicas;
-- Sistemas distribuídos e segurança em arquitetura de microserviços.
+- Sistemas distribuídos e segurança em arquitetura de microserviços;
+- Automação de processos corporativos utilizando IAs multimodais.
 
 ---
 
@@ -69,6 +88,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saunderz&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saunderz&show_icons=true&theme=radical)
+
 
 
