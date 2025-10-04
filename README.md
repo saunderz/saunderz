@@ -29,6 +29,12 @@
 ---
 
 ## 🚀 Experiência Profissional
+- **Grupo Ceuma  —  Supervisor de Sistemas**  
+  - Atuação no **desenvolvimento e integração de soluções com Inteligência Artificial** para automação de processos institucionais;  
+  - Implementação de **pipelines inteligentes** voltados à otimização de fluxos administrativos e operacionais;  
+  - Aplicação de **IA generativa, NLP e analítica preditiva** para suporte à tomada de decisão e melhoria de desempenho;  
+  - Colaboração com equipes multidisciplinares para **modernizar sistemas legados e incorporar automações inteligentes**;  
+  - Foco em **eficiência, inovação e transformação digital** dentro do ecossistema acadêmico e corporativo.  
 
 - **Globaltec Educacional** — Desenvolvedor de IA  
   - Desenvolvimento de soluções de IA aplicadas a **EdTech, gestão e finanças**;  
