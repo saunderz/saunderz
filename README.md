@@ -29,7 +29,7 @@
 ---
 
 ## 🚀 Experiência Profissional
-- **Grupo Ceuma  —  Supervisor de Sistemas**  
+- **Grupo Ceuma  —  Supervisor de Sistemas de Inteligência Artificial**  
   - Atuação no **desenvolvimento e integração de soluções com Inteligência Artificial** para automação de processos institucionais;  
   - Implementação de **pipelines inteligentes** voltados à otimização de fluxos administrativos e operacionais;  
   - Aplicação de **IA generativa, NLP e analítica preditiva** para suporte à tomada de decisão e melhoria de desempenho;  
