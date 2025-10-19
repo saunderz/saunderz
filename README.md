@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou Luã Saunders
+# 👋 Olá, eu sou Luã Saunders  
 
+🤖 **Pós-graduando em Inteligência Artificial e Aprendizado de Máquina** pela PUC  
 🎓 **Engenheiro de Computação com ênfase em Inteligência Artificial**  
-🔬 Pesquisador em Visão Computacional, Aprendizado de Máquina e Redes Neurais Convolucionais  
-🧠 Desenvolvedor de soluções de IA aplicadas ao controle, automação, educação e computação de alto desempenho
+🔬 **Pesquisador em Visão Computacional, Aprendizado de Máquina e Redes Neurais Convolucionais**  
+🧠 **Desenvolvedor de soluções de IA** aplicadas ao controle, automação, educação e computação de alto desempenho  
 
 ---
 
