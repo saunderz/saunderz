@@ -93,13 +93,6 @@
 
 ## 🏆 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saunderz&layout=compact&theme=radical)
-
-
-
-
-
-
 ### 🐍 Gráfico de Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/saunderz/saunderz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
